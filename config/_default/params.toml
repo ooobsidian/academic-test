@@ -181,7 +181,7 @@ plugins_js  = []
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = false
+  gravatar = "https://avatars3.githubusercontent.com/u/30762708?s=96&v=4"
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
